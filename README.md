@@ -2,7 +2,7 @@
 
 A professional portfolio website for Basit Ali, Mobile App Developer, built with React.js and Tailwind CSS.
 
-## Features
+## Features    
 
 ✨ **Modern Design**
 - Professional and clean aesthetic
